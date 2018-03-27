@@ -1,0 +1,25 @@
+{
+  "name": "dead-material",
+  "version": "0.0.1",
+  "description": "Basic Implementation of Material UI for ReactJS",
+  "main": "index.js",
+  "dependencies": {
+    "materialize-css": "^1.0.0-beta",
+    "react": "^16.2.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDeadman/dead-material.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheDeadman/dead-material/issues"
+  },
+  "homepage": "https://github.com/TheDeadman/dead-material#readme"
+}
